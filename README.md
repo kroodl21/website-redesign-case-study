@@ -1,1 +1,1 @@
-# Case of the first web project I initiated after I became a designer. I designed and coded the website. All rights reserved.
+# Case of the first web project I initiated after I transitioned to a product designer. I designed and coded the website. (In terms of Javascript, I customized code snippets found on Codepen). All rights reserved.
